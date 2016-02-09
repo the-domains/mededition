@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T09:34:12.382Z'
-dateModified: '2016-02-09T09:20:42.412Z'
+datePublished: '2016-02-09T09:42:59.939Z'
+dateModified: '2016-02-09T09:40:05.406Z'
 title: Schweizer Apotheken Referenz 2016
 author: []
+sourcePath: _posts/2016-02-09-schweizer-apotheken-referenz-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-schweizer-apotheken-referenz-2016.md
-published: true
-url: schweizer-apotheken-referenz-2016/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3181f6-1a5e-4889-b003-f5c073a5e4e6.png)

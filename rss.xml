@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[medEdition]]></title>
         <description><![CDATA[medEdition]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mededition/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 08:21:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 08:21:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mededition/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://praxisdepesche.ch/assets/images/9/athena_DSC_0207xx-bb_web-1d974d59.jpg">]]></description>
+            <link>http://praxisdepesche.ch/verlag.html</link>
+            <guid isPermaLink="false">c38f07d4-d76b-4888-82d6-c52089eb709d</guid>
+            <pubDate>Tue, 09 Feb 2016 08:21:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>DIE GESCHÄFTSFÜHRENDEN PARTNER VERBINDET DIE LIEBE ZUR QUALITÄT VON PRINT- UND ONLINE-PRODUKTEN: Journalismus und PR medEdition steht für Journalismus auf Top-Niveau. Sorgfältig erarbeiten wir auch unter Druck griffige Texte für unsere Leser und unsere Kunden.  Creation Das Grafik-Team bildet sich stetig weiter und punktet mit Know-how nicht nur bei der optimalen Inszenierung von Print-, sondern auch von digitalen Produkten.  Branchen-Kenntnisse Jeder der geschäftsführenden Partner bringt langjährige Erfahrung in der Schweizer Medizin-, Werbe- und Verlags-Branche mit. Dieses Know-how bündeln wir tagtäglich neu</p>]]></description>
-            <link>undefineddie-geschaftsfuhrenden-partner-verbindet-die-liebe-zur-quali/index.html</link>
+            <link>https://thegrid.ai/mededition/die-geschaftsfuhrenden-partner-verbindet-die-liebe-zur-quali/index.html</link>
             <guid isPermaLink="false">56384d78-23c4-447f-ad9f-eb2c9fdca568</guid>
             <pubDate>Tue, 09 Feb 2016 08:21:04 GMT</pubDate>
         </item>

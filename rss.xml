@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[medEdition]]></title>
         <description><![CDATA[medEdition]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mededition/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 09:34:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 09:34:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mededition/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[medEdition Verlag GmbH]]></title>
             <description><![CDATA[<article><h1>medEdition Verlag GmbH</h1><p>Nebst der PraxisDepesche bringt die medEdition Verlag GmbH im 2016 die «Apotheken Referenz 2016» heraus, die als Nachschlagewerk zur Aktualisierung des Wissensstandes und zur Stärkung der Marktkenntnisse des Apothekenpersonals dienen soll. Weitere Projekte sind in Planung.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdca16a085152225f16caeb843b1dc5ef5ce74a9.png"></article>]]></description>
-            <link>undefinedmededition-verlag-gmbh/index.html</link>
+            <link>https://thegrid.ai/mededition/mededition-verlag-gmbh/index.html</link>
             <guid isPermaLink="false">beed4205-7416-42c6-8c57-574ca0582070</guid>
+            <pubDate>Tue, 09 Feb 2016 09:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schweizer Apotheken Referenz 2016]]></title>
+            <description><![CDATA[<article><h1>Schweizer Apotheken Referenz 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93cd913098732e8ae46dbd784a93c09fbb506ca7.png"></article>]]></description>
+            <link>https://thegrid.ai/mededition/schweizer-apotheken-referenz-2016/index.html</link>
+            <guid isPermaLink="false">4a7c2b92-9b8b-43a3-84a9-25504767cd9a</guid>
             <pubDate>Tue, 09 Feb 2016 09:34:12 GMT</pubDate>
         </item>
     </channel>

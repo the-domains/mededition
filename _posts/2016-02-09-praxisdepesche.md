@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T09:34:12.591Z'
-dateModified: '2016-02-09T08:39:58.716Z'
+datePublished: '2016-02-09T09:43:06.710Z'
+dateModified: '2016-02-09T09:40:15.353Z'
 title: PraxisDepesche
 author: []
+sourcePath: _posts/2016-02-09-praxisdepesche.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-praxisdepesche.md
-published: true
-url: praxisdepesche/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dbd2581-c8d3-4e67-b902-ae2427a3c50c.jpg)

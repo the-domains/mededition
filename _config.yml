@@ -1,0 +1,28 @@
+name: medEdition
+favicon: null
+layout_spectrum: 0.42080152756534517
+typography_spectrum: 0.26516454783268273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23942074971273541
+  lightness: 0.8201874739024788
+  saturation: 0.12764138053171337
+  rhythmicContrast: 0.5902133386116475
+purpose: []

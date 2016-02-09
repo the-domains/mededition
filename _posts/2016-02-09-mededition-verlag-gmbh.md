@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T09:34:12.299Z'
-dateModified: '2016-02-09T09:21:23.312Z'
+datePublished: '2016-02-09T09:43:12.679Z'
+dateModified: '2016-02-09T09:40:16.634Z'
 title: medEdition Verlag GmbH
 author: []
+sourcePath: _posts/2016-02-09-mededition-verlag-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-mededition-verlag-gmbh.md
-published: true
-url: mededition-verlag-gmbh/index.html
-_type: Article
+_type: Blurb
 
 ---
 # medEdition Verlag GmbH

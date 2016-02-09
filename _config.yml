@@ -1,7 +1,7 @@
 name: medEdition
 favicon: null
 layout_spectrum: 0.96847
-typography_spectrum: 0.3722
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null

@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T09:34:12.142Z'
-dateModified: '2016-02-09T09:33:40.555Z'
+datePublished: '2016-02-09T09:42:55.697Z'
+dateModified: '2016-02-09T09:39:59.607Z'
 title: Ihre Ansprechpartner
 author: []
+sourcePath: _posts/2016-02-09-ihre-ansprechpartner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-ihre-ansprechpartner.md
-published: true
-url: ihre-ansprechpartner/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/138a90f2-01e5-4646-a42d-f9a97c969915.jpg)
